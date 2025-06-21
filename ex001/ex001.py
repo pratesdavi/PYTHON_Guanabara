@@ -23,6 +23,6 @@ DESCRIÇÃO 📋:
 ----------------------------------------------------------------------------------------------------
 """
 
-# ESCREVA SEU SCRIPT AQUI
+## SCRIPT
 mensagem = 'Olá, mundo!'
 print(mensagem)
